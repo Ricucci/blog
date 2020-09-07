@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Nuovo"
+date:   2020-05-07 13:49:29 +0900 <ul> {{ page.date | date_to_long_string }} </ul>
+categories: nuovo
+---
+<ul> {{ page.date | date_to_long_string }} </ul>
+
+Puede ser que he pillado el truco

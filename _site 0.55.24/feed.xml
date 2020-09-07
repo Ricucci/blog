@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-08T00:48:43+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Comboniani</title><subtitle>Storia della mia esperienza con la comunità comboniana di Castelvolturno</subtitle><entry><title type="html">Prime impressioni</title><link href="http://localhost:4000/nuovo/2020/09/07/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Prime impressioni" /><published>2020-09-07T06:49:29+02:00</published><updated>2020-09-07T06:49:29+02:00</updated><id>http://localhost:4000/nuovo/2020/09/07/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/nuovo/2020/09/07/welcome-to-jekyll.html">&lt;p&gt;Este seria el primer post de prueba que haria&lt;/p&gt;</content><author><name></name></author><category term="nuovo" /><summary type="html">Este seria el primer post de prueba que haria</summary></entry><entry><title type="html">Nuovo</title><link href="http://localhost:4000/nuovo/2020/05/07/nuovo.html" rel="alternate" type="text/html" title="Nuovo" /><published>2020-05-07T06:49:29+02:00</published><updated>2020-05-07T06:49:29+02:00</updated><id>http://localhost:4000/nuovo/2020/05/07/nuovo</id><content type="html" xml:base="http://localhost:4000/nuovo/2020/05/07/nuovo.html">&lt;ul&gt; 07 May 2020 &lt;/ul&gt;
+
+&lt;p&gt;Puede ser que he pillado el truco&lt;/p&gt;</content><author><name></name></author><category term="nuovo" /><summary type="html">07 May 2020</summary></entry><entry><title type="html">post-sample</title><link href="http://localhost:4000/sample/2020/01/02/post1.html" rel="alternate" type="text/html" title="post-sample" /><published>2020-01-02T11:20:23+01:00</published><updated>2020-01-02T11:20:23+01:00</updated><id>http://localhost:4000/sample/2020/01/02/post1</id><content type="html" xml:base="http://localhost:4000/sample/2020/01/02/post1.html">&lt;h1 id=&quot;post-sample&quot;&gt;post-sample&lt;/h1&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Hello!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is code&lt;/p&gt;
+&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'hello world'&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><category term="sample" /><summary type="html">post-sample Hello!</summary></entry><entry><title type="html">Verifica</title><link href="http://localhost:4000/nuovo/1987/12/06/verifica.html" rel="alternate" type="text/html" title="Verifica" /><published>1987-12-06T05:49:29+01:00</published><updated>1987-12-06T05:49:29+01:00</updated><id>http://localhost:4000/nuovo/1987/12/06/verifica</id><content type="html" xml:base="http://localhost:4000/nuovo/1987/12/06/verifica.html">&lt;p&gt;Vamos a ver si es verdad&lt;/p&gt;
+
+&lt;table style=&quot;width:100%&quot;&gt;
+ &lt;tr&gt;
+   &lt;th&gt;Firstname&lt;/th&gt;
+   &lt;th&gt;Lastname&lt;/th&gt;
+   &lt;th&gt;Age&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+   &lt;td&gt;Jill&lt;/td&gt;
+   &lt;td&gt;Smith&lt;/td&gt;
+   &lt;td&gt;50&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+   &lt;td&gt;Eve&lt;/td&gt;
+   &lt;td&gt;Jackson&lt;/td&gt;
+   &lt;td&gt;94&lt;/td&gt;
+ &lt;/tr&gt;
+&lt;/table&gt;</content><author><name></name></author><category term="nuovo" /><summary type="html">Vamos a ver si es verdad</summary></entry></feed>
